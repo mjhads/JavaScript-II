@@ -18,7 +18,7 @@ With some basic JavaScript principles in hand, we can now expand our skills out 
 
 * [ chek ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
 * [ ] Add your project manager as a reviewer on the pull-request
-* [ ] Your project manager will count the project as complete by merging the branch back into master.
+* [ okay ] Your project manager will count the project as complete by merging the branch back into master.
 
 ## Task 2: Higher Order Functions and Callbacks
 
